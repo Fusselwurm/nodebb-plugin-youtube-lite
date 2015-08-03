@@ -9,6 +9,22 @@ Saving precious time when loading long, youtube heavy topics. A preview image is
     npm install nodebb-plugin-youtube-lite
 
 
+## find link & youtubeID 
+
+    this YouTube URLs are recognized
+    
+    
+
+<a href="https://www.youtube.com/watch?t=61&amp;v=JozAmXo2bDE" rel="nofollow">https://www.youtube.com/watch?t=61&amp;v=JozAmXo2bDE</a><br>
+
+<a href="https://www.youtube.com/watch?v=VH2QAMMSL40" rel="nofollow">https://www.youtube.com/watch?v=VH2QAMMSL40</a><br>
+
+<a href="http://www.youtube.com/embed/NLqAF9hrVbY" rel="nofollow">http://www.youtube.com/embed/NLqAF9hrVbY</a><br>
+
+<a href="http://youtu.be/NLqAF9hrVbY" rel="nofollow">http://youtu.be/NLqAF9hrVbY</a>
+
+
+
 ##Changes
     0.3.1
      - Removed forced http from api and pre loaded image. 

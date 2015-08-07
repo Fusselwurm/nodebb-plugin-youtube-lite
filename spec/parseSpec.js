@@ -8,7 +8,7 @@ var getExpectedMarkup = function (videoId) {
     return library.embedMarkup.replace(/\$2/g, videoId);
 };
 
-var exampleVideoId = 'oT3mC-bbhf0';
+var exampleVideoId = 'oT3mC-_bhf0';
 
 var assertReplacement = function (youtubeUrlTemplate) {
     var youtubeUrl = youtubeUrlTemplate.replace(/%s/g, exampleVideoId);

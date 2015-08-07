@@ -51,5 +51,8 @@
   },
   "directories": {},
   "_resolved": "https://registry.npmjs.org/nodebb-plugin-youtube-lite/-/nodebb-plugin-youtube-lite-0.3.2.tgz",
-  "readme": "ERROR: No README data found!"
+  "readme": "ERROR: No README data found!",
+  "devDependencies": {
+    "jasmine": "~2.3.2"
+  }
 }
